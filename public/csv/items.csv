@@ -1,0 +1,22 @@
+name,description,category,department,store,brand,model,rfid tag
+S3WLM1,Studio 303 Wireless Mic 1,MIC,cymcc,s303_ctrl,Shure,,00000000000001
+S3WLM2,Studio 303 Wireless Mic 2,MIC,cymcc,s303_ctrl,Shure,,00000000000002
+S3WLM3,Studio 303 Wireless Mic 3,MIC,cymcc,s303_ctrl,Shure,,00000000000003
+S3WLM4,Studio 303 Wireless Mic 4,MIC,cymcc,s303_ctrl,Shure,,00000000000004
+S3WLM5,Studio 303 Wireless Mic 5,MIC,cymcc,s303_ctrl,Shure,,00000000000005
+S3WLM6,Studio 303 Wireless Mic 6,MIC,cymcc,s303_ctrl,Shure,,00000000000006
+S3WLM7,Studio 303 Wireless Mic 7,MIC,cymcc,s303_ctrl,Shure,,00000000000007
+S3WLM8,Studio 303 Wireless Mic 8,MIC,cymcc,s303_ctrl,Shure,,00000000000008
+S3DIB1,Studio 303 DI Box 1,DIB,cymcc,cymcc_office,,,00000000000009
+S3IPAD1,Studio 303 Audio Console iPad,IPD,cymcc,s303_ctrl,Apple,IPad mini 2,00000000000010
+CYMWK1,CYMCC Walkie Talkie 1,WTK,cymcc,cymcc_office,Motorola,,00000000000011
+CYMWK2,CYMCC Walkie Talkie 2,WTK,cymcc,cymcc_office,Motorola,,00000000000012
+CYMWK3,CYMCC Walkie Talkie 3,WTK,cymcc,cymcc_office,Motorola,,00000000000013
+CYMWK4,CYMCC Walkie Talkie 4,WTK,cymcc,cymcc_office,Motorola,,00000000000014
+CYMWK5,CYMCC Walkie Talkie 5,WTK,cymcc,cymcc_office,Motorola,,00000000000015
+S3SM1,Studio 303 Stage Monitor 1,SPK,cymcc,s303_ctrl,JBL,,00000000000016
+S3SM2,Studio 303 Stage Monitor 2,SPK,cymcc,s303_ctrl,JBL,,00000000000017
+S3SM3,Studio 303 Stage Monitor 3,SPK,cymcc,s303_ctrl,JBL,,00000000000018
+LESDIB1,LES DI Box 1,DIB,les,les_office,,,00000000000019
+LESDIB2,LES DI Box 2,DIB,les,les_office,,,00000000000020
+LESDIB3,LES DI Box 3,DIB,les,les_office,,,00000000000021

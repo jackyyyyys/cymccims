@@ -1,0 +1,26 @@
+name,in_zone
+LES Office Entrance,les_office
+CYMCC Office Left,cymcc_office
+CYMCC Office Right,cymcc_office
+YMA Stage Left,yma_stage
+YMA Stage Right,yma_stage
+YMA Stage Back,yma_stage
+YMA Seat Left,yma_seat
+YMA Seat Right,yma_seat
+YMA Seat Up,yma_seat
+YMA Control Room,yma_ctrl
+YMA Dressing Room A,yma_dressingA
+YMA Dressing Room B,yma_dressingB
+YMA Backstage Down,yma_backstage
+YMA Backstage Up,yma_backstage
+YMA Shower Room A,yma_showerA
+YMA Shower Room B,yma_showerB
+S303 Stage A,s303_stage
+S303 Stage B,s303_stage
+S303 Stage C,s303_stage
+S303 Stage D,s303_stage
+S303 Control Room,s303_ctrl
+S303 Workshop Front,s303_workshop
+S303 Workshop Back,s303_workshop
+S303 Dressing Room A,s303_dressingA
+S303 Dressing Room B,s303_dressingB

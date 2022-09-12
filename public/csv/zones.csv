@@ -1,0 +1,16 @@
+name,description,in_theatre
+les_office,LES Office,
+cymcc_office,CYMCC Office,
+yma_stage,Stage,yma
+yma_seat,Seating,yma
+yma_ctrl,Control Room,yma
+yma_dressingA,Dressing Room A,yma
+yma_dressingB,Dressing Room B,yma
+yma_backstage,Shower Room A,yma
+yma_showerA,Shower Room B,yma
+yma_showerB,Backstage,yma
+s303_stage,Stage,s303
+s303_ctrl,Control Room,s303
+s303_workshop,Workshop,s303
+s303_dressingA,Dressing Room A,s303
+s303_dressingB,Dressing Room B,s303
